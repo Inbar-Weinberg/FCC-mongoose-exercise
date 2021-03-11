@@ -1,2 +1,2 @@
-# FCC mongoose exercise
- this is the repo for 12 exercises from fcc
+# [MongoDB and Mongoose Challenges](https://www.freecodecamp.org/learn/apis-and-microservices/mongodb-and-mongoose/)
+started
